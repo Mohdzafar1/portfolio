@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Playfair+Display:ital@1&family=Rubik+Moonrocks&family=Rubik+Wet+Paint&display=swap');
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: #000000; */
+   font-family: 'Rubik Wet Paint', cursive;
+}
+.navbar{
+    background-color: #000000;
+}
+#pointer{
+    cursor: pointer;
+     border-radius: 40px;
+}
+#pointer:hover{
+  
+     color:#fff;
+     background-color: orangered;
+}
+#banner{
+    width: 100%;
+    height: 100%;
+}
+#banner2{
+    width: 60%;
+    height: 90%;
+    border-radius:30rem;
+}
+#home{
+    background-color: #000000;
+    width: 100%;
+    height: 92vh;
+}
+#media-icon{
+   
+    letter-spacing: 10px;
+     
+}
+#bar-1{
+    width: 70%;
+
+}
+
+#bar{
+    height: 30px;
+}
+#bar-2{
+    width: 60%;
+    background-color: black;
+
+}
+#bar-3{
+    width: 50%;
+    background-color: rgb(42, 165, 95);
+
+}
+#bar-4{
+    width: 40%;
+    background-color: rgba(255, 0, 0, 0.741);
+
+}
+#bar-5{
+    width: 30%;
+
+}
+#skill{
+    background-image: url('skill.jpeg');
+    background-position: center;
+    width: 100%;
+    height: 93vh;
+}
+#card{
+    width: 100%;
+    height: 100%;
+    box-shadow: 5px 5px 5px 5px;
+}
+#card:hover{
+    transform: scale(1.1);
+}
+#service{
+    width: 100%;
+    height: 93vh;
+    background-color: rgba(151, 192, 234, 0.449);
+}
+#service-card{
+    border-radius: 2rem;
+
+}
+#footer-icon{
+    letter-spacing: 30px;
+  
+}
+#about-footer{
+    background-color: #000000;
+}
+#contact-footer{
+    padding-bottom:0px;
+    background-color: #000000;
+    width: 100%;
+    height: 20vh;
+}
+#home-footer{
+    background-color: #000000;
+}
+#contact-email{
+    width: 100%;
+    height: 100%;
+}
+/* #heading{
+    padding-top: 100pc;
+} */
+#footer{
+    background-color: #000000;
+}
